@@ -1,6 +1,7 @@
 ## SQL DEVELOPER 단축키
 
 
+
 - Ctrl + space = 자동완성
 - Ctrl + F7 = 자동정렬
 - Ctrl + Enter = 명령문 실행
